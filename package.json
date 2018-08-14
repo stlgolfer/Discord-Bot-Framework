@@ -1,0 +1,32 @@
+{
+  "name": "discord-bot-framework",
+  "version": "1.0.0",
+  "description": "Framework for a discord bot",
+  "dependencies":{
+          "cheerio": "^1.0.0-rc.2",
+    "colors": "^1.1.2",
+    "discord.js": "^11.1.0",
+    "discordie": "^0.10.0",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-binaries": "^3.2.2-3",
+    "openweather-apis": "^3.0.2",
+    "opusscript": "0.0.6",
+    "random-number": "^0.0.7",
+    "request": "^2.81.0",
+    "twitter": "^1.7.1"
+},
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stlgolfer/discord-bot-framework.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stlgolfer/discord-bot-framework/issues"
+  },
+  "homepage": "https://github.com/stlgolfer/discord-bot-framework#readme"
+}
